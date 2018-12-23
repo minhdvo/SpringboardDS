@@ -1,0 +1,1 @@
+Think of a milestone report as an interim report that you may be asked to share with your client to keep them updated on your findings. It’s also an opportunity for you to take stock of how far you’ve come, what you’ve found, and practice your data storytelling skills. This is similar to an early draft of the final capstone project 1 report.

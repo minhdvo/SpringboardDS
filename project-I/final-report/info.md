@@ -1,0 +1,1 @@
+You’re now ready to finalize and complete your first capstone project! By this point, you should have a pretty clear idea of the main points that you’d like to make and the predictive models appropriate to your story. 

@@ -1,4 +1,4 @@
-##Project: Capstone Project 1: Exploratory Data Analysis
+## Project: Capstone Project 1: Exploratory Data Analysis
 
 Think of the following questions and apply them to your dataset:
 

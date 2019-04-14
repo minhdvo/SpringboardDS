@@ -11,8 +11,9 @@ Completed projects in this training:
 8. Project: Heights and Weights Using Logistic Regression
 9. Project: Predicting Movie Ratings from Reviews Using Naive Bayes
 10. Project: Customer Segmentation Using Clustering
-11. Project: Example Take-Home Challenge: Relax Inc.
-12. Project: Take-Home Challenge: Ultimate Technologies Inc.
+11. Project: Spark - Databricks edition
+12. Project: Example Take-Home Challenge: Relax Inc.
+13. Project: Take-Home Challenge: Ultimate Technologies Inc.
 
 # Two capstone projects
 - Project I: The consumption of non-renewable and renewable energies in USA (Time Series problem)
